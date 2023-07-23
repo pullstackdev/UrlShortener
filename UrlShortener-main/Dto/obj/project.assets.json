@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\digiw\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\digiw\\Desktop\\practice_projects\\UrlShortener-main\\Dto\\Dto.csproj",
+      "projectName": "Dto",
+      "projectPath": "C:\\Users\\digiw\\Desktop\\practice_projects\\UrlShortener-main\\Dto\\Dto.csproj",
+      "packagesPath": "C:\\Users\\digiw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\digiw\\Desktop\\practice_projects\\UrlShortener-main\\Dto\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\digiw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net70"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net70": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net70": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
